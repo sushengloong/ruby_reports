@@ -6,6 +6,7 @@ gem 'rails', '3.2.12'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
+gem 'ruby-oci8', '~> 2.1.4'
 
 group :test do
   gem 'minitest'
